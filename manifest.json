@@ -1,0 +1,26 @@
+{
+  "name": "Huellitas de Algodón - Spa & Bienestar",
+  "short_name": "Huellitas Spa",
+  "description": "Spa digital para mascotas 100% libre de jaulas: cotizador, reservas con ficha clínica y seguimiento en tiempo real.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F2",
+  "theme_color": "#A3B899",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
